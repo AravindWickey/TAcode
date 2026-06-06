@@ -34,10 +34,10 @@ npm -v
 
 ## Frontend Setup (React)
 
-Navigate to the frontend directory:
+Navigate to the my-dashboard directory:
 
 ```bash
-cd frontend
+cd my-dashboard
 ```
 
 Install dependencies:
@@ -108,7 +108,7 @@ http://localhost:5000
 ### Terminal 1
 
 ```bash
-cd frontend
+cd my-dashboard
 npm install
 npm start
 ```
