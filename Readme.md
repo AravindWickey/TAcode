@@ -5,9 +5,9 @@ This repository contains both the frontend and backend applications.
 ## Project Structure
 
 ```text
-project-root/
+TACode/
 │
-├── frontend/     # React Application
+├── my-dashboard/     # React Application
 │
 ├── backend/      # Node.js / Express API
 │
